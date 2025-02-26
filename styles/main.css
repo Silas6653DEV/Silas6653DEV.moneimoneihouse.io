@@ -1,0 +1,43 @@
+.titlemain{
+    text-align: center;
+    color: rgb(3, 193, 82);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.subtitle{
+    text-align: center;
+    color: rgb(203, 255, 225);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.prizecount{
+    text-align: center;
+    color: rgb(60, 255, 142);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+body{
+    background-color: black;
+}
+.ssbuttondiv{
+    border-radius: 38px;
+    text-align: center;
+}
+.ssbutton{
+    border-radius: 38px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(220, 236, 255);
+    background-color: rgb(60, 135, 255);
+    font-size: 50px;
+    outline-style: none;
+    outline: 5px solid #001aff;
+    transition: outline 1s ease 0s;
+
+}
+.ssbutton:hover{
+    outline: 10px solid #00ff22;
+}
+h5{
+    color: rgb(220, 236, 255);
+    bottom: auto;
+}
